@@ -19,7 +19,7 @@
     "url": "https://github.com/acronamy/kitsune/issues"
   },
   "homepage": "https://github.com/acronamy/kitsune#readme",
-  "dependancies":{
+  "dependencies":{
     "kitsune-core":"git+https://github.com/acronamy/kitsune-core.git"
   }
 }
