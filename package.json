@@ -1,0 +1,22 @@
+{
+  "name": "kitsune-wrapper",
+  "version": "1.0.0",
+  "description": "Provides a wrapper and structure for kitsune.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Crockett (acronamy)",
+  "license": "ISC",
+  "bin": {
+    "kitsune-wrapper": "bootstrap-install-kit.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acronamy/kitsune.git"
+  },
+  "bugs": {
+    "url": "https://github.com/acronamy/kitsune/issues"
+  },
+  "homepage": "https://github.com/acronamy/kitsune#readme"
+}
