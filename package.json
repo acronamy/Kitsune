@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/acronamy/kitsune/issues"
   },
-  "homepage": "https://github.com/acronamy/kitsune#readme"
+  "homepage": "https://github.com/acronamy/kitsune#readme",
+  "dependancies":{
+    "kitsune-core":"git+https://github.com/acronamy/kitsune-core.git"
+  }
 }
